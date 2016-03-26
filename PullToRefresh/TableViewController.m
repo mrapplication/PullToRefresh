@@ -20,7 +20,7 @@
     
     [super viewDidLoad];
     
-    [self setupRefreshControl]; // Setup refresh elements
+    [self setupRefreshControl];
 }
 
 #pragma mark - Refresh
